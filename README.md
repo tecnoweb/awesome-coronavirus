@@ -221,6 +221,7 @@ If you are a developer, you may also be able to contribute to some of these proj
 | [covid-api.com](https://covid-api.com) | COVID-19 Statistics API based on public data by Johns Hopkins CSSE |
 | [CovidStats](https://www.covidstats.com) | Coronavirus charts and reports |
 | [covidabruzzo.it](https://covidabruzzo.it) | Coronavirus in Abruzzo - I dati aggiornati |
+| [ritirato.it](https://ritirato.it) | Coronavirus in Italia con aggiornamenti per singola regione e provincia
 | [Work From Home Gigs](https://bit.ly/WFH143) | A weekly updated list of work from home jobs during the COVID-19 Pandemic |
 | [Corona-tracker](https://corona-tracker-2020.netlify.com/) | Web app to track Coronavirus with primary focus on India |
 | [Covid-19 statistics](https://souryvath.github.io/ng-covid-19/) | Web app to get covid-19 statistics around the world, built for french people |
